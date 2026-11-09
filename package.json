@@ -1,0 +1,13 @@
+{
+  "name": "nodejs-project",
+  "version": "1.0.0",
+  "description": "Node.js GitHub Actions CI/CD deployment project",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --check server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
