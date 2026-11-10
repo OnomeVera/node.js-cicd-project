@@ -1,13 +1,22 @@
+
 {
   "name": "nodejs-project",
   "version": "1.0.0",
-  "description": "Node.js GitHub Actions CI/CD deployment project",
+  "description": "Node.js application deployed to Azure using GitHub Actions",
   "main": "server.js",
+  "engines": {
+    "node": "24.x"
+  },
   "scripts": {
     "start": "node server.js",
-    "test": "node --check server.js"
+    "test": "node --test"
   },
-  "keywords": [],
+  "keywords": [
+    "nodejs",
+    "azure",
+    "github-actions",
+    "cicd"
+  ],
   "author": "",
   "license": "ISC"
 }
