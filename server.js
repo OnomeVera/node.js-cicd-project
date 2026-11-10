@@ -13,7 +13,7 @@ function createServer() {
                     <title>Node.js Azure CI/CD</title>
                 </head>
                 <body>
-                    <h1>Hello! My Node.js CI/CD Project is Working!</h1>
+                    <h1>Version 2 - Azure CI/CD Deployment Successful!</h1>
                     <p>Successfully deployed using GitHub Actions and Azure.</p>
                 </body>
             </html>
