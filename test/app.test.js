@@ -25,7 +25,7 @@ test('Node.js application responds successfully', async () => {
 
         assert.match(
             body,
-            /Node.js CI\/CD Project is Working/
+            /Version 2 - Azure CI\/CD Deployment Successful!/
         );
 
     } finally {
